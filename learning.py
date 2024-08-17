@@ -4,5 +4,11 @@ print('i wish to spend more time mastering my python skills')
 print('lemme show you a little python code that i learnt in the past')
 a= 3
 b=5
-print(a*b)
-      
+#print(a*b)
+
+def add_numbers(x, y):
+    sum_of_nums = x+y
+    print (f'the sum of the two numbers = {sum_of_nums}. Thank you.')
+
+
+add_numbers(65, 7)
