@@ -5,3 +5,5 @@ ON cs.address_id = ad.address_id
 JOIN city as ct
 ON ad.city_id = ct.city_id
 JOIN country cy
+
+select * from customer where first_name = 'john'
