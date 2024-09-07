@@ -8,7 +8,7 @@ b=5
 
 def add_numbers(x, y):
     sum_of_nums = x+y
-    print (f'the sum of the two numbers = {sum_of_nums}. Thank you.')
+    print (f'The sum of the two numbers = {sum_of_nums}. Thank you.')
 
 
 add_numbers(65, 7)
